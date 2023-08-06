@@ -9,7 +9,7 @@ function App() {
  
 
   const handleSubmit=()=>{
- fetch('http://localhost:8080/shayari',{
+ fetch('https://shayari-t389.onrender.com/shayari',{
     method:"POST",
     headers:{
       "Content-Type":"application/json",
