@@ -18,7 +18,7 @@ function App() {
   }
 
   return (
-    <div style={{position:'relative',height:'97vh',width:'99vw',}}>
+    <div style={{position:'relative',height:'100vh',width:'100vw',backgroundColor:'#8d445c'}}>
       <div style={{position:'absolute',height:'50vh',width:'50vw',top:'20%',left:'25%',transform:'translate(-50% -50%)'}}   >
       <Center>
         <Heading 

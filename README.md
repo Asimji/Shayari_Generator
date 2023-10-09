@@ -59,7 +59,7 @@ This repository contains the code for the Shayari Generation web application. Th
 
 The frontend is built using React.js and Chakra UI for the user interface. It communicates with the backend API to generate content based on user-provided keywords.
 
-![Homepage](./frontend/public/homepage.png)
+![Homepage](./frontend/src/images/Screenshot%20(160).png)
 
 ## Backend
 
