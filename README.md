@@ -10,7 +10,7 @@ This repository contains the code for the Shayari Generation web application. Th
 
 1. Clone the repository:
     ```
-    git clone https://github.com/mohitsvp/AI-Shayari-app.git
+    git clone https://github.com/Asimji/Shayari_Generator.git
     cd shayari-generation
     ```
 
@@ -67,7 +67,7 @@ The backend is built using Express.js and interacts with the OpenAI API to gener
 
 ## Deployed URL
 
-The web application is deployed at: [https://ai-content-generation.vercel.app/](https://shayari-generator-three.vercel.app/)
+The web application is deployed at: [https://ai-content-generation.vercel.app/](https://shayari-generator-beta.vercel.app/)
 
 ## Dependencies
 
